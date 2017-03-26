@@ -22,43 +22,45 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
+A web developer is responsible for creating and maintaing a web site and/or web application.  
 
-In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web Designers come from a background in graphic design. Designers create logos, icons, etc. Web Developers translate designs to valid HTML & CSS. These two career titles overlap these days.
+
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+When you see the term "Front-end", what is being referenced is anything that the user interacts with. This can be a simple button, a form, a link hover etc. The technical term is "Client-side".
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Back-end, on the otherhand is all the inner-workings behind the scenes. Server request and responses, form validation. All these fall under the "server-side".
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+More and more frequently you see developers are developing both client and server side code. This is referred to as "Full-stack".
+
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+A "static" web page is a web-site whose content rarely changes, typically through a web developer.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+A "dynamic" web page is any page that is constantly updated, usually by user input
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+To a developer, Google is your best friend. 
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+Free code camp offers coffee & code events. Otherwise check social media for your local dev communities.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### What online developer communities can you join?
 
@@ -69,11 +71,9 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+Text-editors like Sublime or Atom, come with features that make a developer's life easier. With programs like notepad, Formatting would be a constant annoyance.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -85,17 +85,10 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 
 #### What do companies look for in a junior web developer?
 
-Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.
+As a developer your only choice of marketing your skills to the world is to build, build, build.
+You must have a portfolio page, showcasing your best work. You must show proffiency in semanctic code and a good understanding of the Cascade.
 
-Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
-
-Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
-
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Luis Ulua](https://github.com/uluawebdev)*
 
 
 #### What is the hiring process like for a developer?
